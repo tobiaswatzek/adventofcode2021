@@ -1,5 +1,3 @@
-module Day1
-
 (*
 --- Day 1: Sonar Sweep ---
 
@@ -84,6 +82,9 @@ In this example, there are 5 sums that are larger than the previous sum.
 Consider sums of a three-measurement sliding window. How many sums are larger than the previous sum?
 
 *)
+
+module Day1
+
 
 open Helpers
 

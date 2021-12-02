@@ -1,3 +1,6 @@
 ﻿printfn "Day 1:"
 printfn "- Part One Solution = %d" Day1.solvePartOne
 printfn "- Part Two Solution = %d" Day1.solvePartTwo
+printfn "Day 2:"
+printfn "- Part One Solution = %d" Day2.solvePartOne
+printfn "- Part Two Solution = %d" Day2.solvePartTwo
