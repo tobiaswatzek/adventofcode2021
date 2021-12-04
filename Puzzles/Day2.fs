@@ -64,8 +64,6 @@ Using this new interpretation of the commands, calculate the horizontal position
 module Day2
 open Helpers
 
-exception ParsingError of string
-
 type Direction =
     | Forward of int
     | Up of int
